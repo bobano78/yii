@@ -50,8 +50,7 @@ $this->title = \Yii::t('app', 'My Yii Application');
 
                 <p>
 					After you create the readme.txt file, you can verify that it was created by using the "ls" command. This command will show you all the files and folders that exist in your current folder.
-
-Lastly, you can use the Git "status" command to check on the status of your current directory:</p>
+				</p>
 
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/"><?php echo \Yii::t('app', 'Yii Extensions');?> &raquo;</a></p>
             </div>
